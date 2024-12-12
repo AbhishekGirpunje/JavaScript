@@ -1,2 +1,2 @@
 # JavaScript
-A code for JavaScript
+Code for JavaScript
