@@ -40,5 +40,10 @@ console.log(num9);
 let num10 = Math.random();// random number in between 0 and 1
 console.log(num10);
 
+const numb = 3;
+const numb2 =7;
+
+console.log(Math.floor(Math.random() * (numb2 - numb + 1)) + numb);
+
 
 
